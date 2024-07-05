@@ -1,5 +1,6 @@
 # test
-###task1q-1.ipynb ;task1q-2,3,4 ;task2.ipynb are code files
+###task1q-1.ipynb ;task1q-2,3,4 ;task2.ipynb are code files.
+
 TASK 1:
 
 1.Fixing Discontinuous Path in Latitude and Longitude Coordinates
